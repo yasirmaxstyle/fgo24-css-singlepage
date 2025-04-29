@@ -3,3 +3,13 @@ img {
     right: 20px;
     bottom: 20px;
 }
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-indent: 5%;
+    width: 50%;
+    margin: auto;
+}
