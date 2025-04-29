@@ -1,0 +1,19 @@
+{
+  "name": "fgo24-css-singlepage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "basic"
+  ],
+  "author": "yasirmaxstyle",
+  "license": "ISC",
+  "description": "single page html css exercise",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
